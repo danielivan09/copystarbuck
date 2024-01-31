@@ -698,6 +698,11 @@ video {
   background-color: transparent;
 }
 
+.bg-\[\#a5c4dc\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(165 196 220 / var(--tw-bg-opacity));
+}
+
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
